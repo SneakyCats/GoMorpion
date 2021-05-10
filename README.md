@@ -21,6 +21,7 @@ go run Morpion.go
 ```
 
 ## Build and run it
+```bash
 go build Morpion.go
 ./Morpion
 ```
