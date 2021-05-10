@@ -20,6 +20,11 @@ docker run -i go-morpion
 go run Morpion.go
 ```
 
+## Build and run it
+go build Morpion.go
+./Morpion
+```
+
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
